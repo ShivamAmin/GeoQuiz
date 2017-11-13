@@ -24,4 +24,4 @@ In this chapter, I learned how to create a new activity to my application. I als
 * **Shivam Amin** - *Developer* - [Website](https://www.ShivamAmin.com/)
 
 ## Resources
-* ***Android Programming: The Big Nerd Ranch Guide*** - *Textbook* [Website](https://www.bignerdranch.com/books/android-programming/)
+* ***Android Programming: The Big Nerd Ranch Guide*** - *Textbook* - [Website](https://www.bignerdranch.com/books/android-programming/)
